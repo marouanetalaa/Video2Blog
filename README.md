@@ -13,7 +13,7 @@ This API is designed to generate a blog from a conference video. The process inv
 - **Context Chunking**: The extracted slides and their timestamps are used to split the transcription into chunks of the same context. This is important because language models have a fixed token limit.
 
 - **Slide Content Extraction**: The content of the slides is also extracted and added to the prompts sent to the language model to improve the blog output.
-- ![Image](MSEhistogram.png)
+- ![Image](MSEhistogrm.png)
 
 - **Language Model Integration**: Each context chunk, along with the corresponding slide content, is processed by a language model to generate a formatted MArkdown section.
 
