@@ -14,9 +14,9 @@ This API is designed to generate a blog from a conference video. The process inv
 
 - **Slide Content Extraction**: The content of the slides is also extracted and added to the prompts sent to the language model to improve the blog output.
 
-- **Language Model Integration**: Each context chunk, along with the corresponding slide content, is processed by a language model to generate a formatted HTML section.
+- **Language Model Integration**: Each context chunk, along with the corresponding slide content, is processed by a language model to generate a formatted MArkdown section.
 
-- **Blog Assembly**: The HTML sections are combined to create the final blog.
+- **Blog Assembly**: The Markdown sections are combined to create the final blog.
 
 ## Installation
 
