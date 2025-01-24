@@ -25,7 +25,7 @@ This API is designed to generate a blog from a conference video. The process inv
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/blog-generation-api.git
+git clone https://github.com/marouanetalaa/Video2Blog.git
 ```
 
 ## Example :
